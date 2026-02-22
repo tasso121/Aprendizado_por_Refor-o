@@ -6,12 +6,13 @@
 
 ---
 
-## 👥 Equipa
-* Tasso Marcel de Oliveira
+## 👥 Equipe
+* Ellen Karolliny dos Santos
+* Ellen Vitoria Menezes Lima
 * João Santos Rocha
 * Larissa Batista dos Santos
-* Ellen Vitoria Menezes Lima
-* Ellen Karolline dos Santos
+* Tasso Marcel de Oliveira
+
 
 ---
 
