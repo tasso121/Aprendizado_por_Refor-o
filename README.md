@@ -17,7 +17,7 @@
 ---
 
 ## 🎯 Sobre o Projeto
-Este repositório contém o **Aplicativo 2 (Unidade 3)** solicitado na disciplina de Inteligência Artificial. O objetivo é demonstrar a aplicação prática do algoritmo de **Aprendizagem por Reforço (Q-Learning)**.
+Este repositório contém o **Aplicativo 1 (Unidade 3)** solicitado na disciplina de Inteligência Artificial. O objetivo é demonstrar a aplicação prática do algoritmo de **Aprendizagem por Reforço (Q-Learning)**.
 
 O problema modelado consiste num ambiente de grelha (Grid Environment) onde um agente virtual precisa de aprender, de forma autónoma, a navegar em direção a recompensas positivas, evitando obstáculos ou estados que representem punições (valores negativos). 
 
