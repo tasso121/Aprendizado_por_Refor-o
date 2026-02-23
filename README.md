@@ -36,4 +36,4 @@ A forma mais rápida e fácil de testar a aplicação e visualizar os gráficos 
 **1. Clone o repositório**
 
 **2. Execute o arquivo principal**
-python app.py
+apredizado_reforço.py
