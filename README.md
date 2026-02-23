@@ -37,6 +37,3 @@ A forma mais rápida e fácil de testar a aplicação e visualizar os gráficos 
 
 **2. Execute o arquivo principal**
 python app.py
-python app.py```bash
-git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-cd SEU-REPOSITORIO
